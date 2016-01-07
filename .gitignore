@@ -1,0 +1,6 @@
+_Store
+.gitignore.swp
+.settings
+.classpath
+/bin/
+
